@@ -1,0 +1,8 @@
+--exec "carton exec perl -Ilib -MTest::Pretty -MTest::Name::FromLine"
+-Pretty
+--merge
+--trap
+--color
+--timer
+--failures
+--verbose
