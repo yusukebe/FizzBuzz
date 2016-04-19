@@ -14,9 +14,14 @@ From [Fizz buzz - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wik
 
 ## FizzBuzz code spec
 
-* FizzBuzz code must be implemented as Object-Oriented
-* FizzBuzz code must have Tests
-* FizzBuzz code should be executable many Platforms
+* FizzBuzz code must be implemented as **Object-Oriented**
+* FizzBuzz code must have **Tests**
+* FizzBuzz code should be executable many **Platforms**
+* FizzBuzz code sometimes have **WebAPI**
+
+## If you want to write your FizzBuzz
+
+Pull-request welcome!
 
 ## Author
 
